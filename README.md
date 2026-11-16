@@ -1,4 +1,4 @@
-# LA Metro Bike Share Analysis
+# LA Metro Bike Share Exploratory Data Analysis
 
 Where in the City of Los Angeles do households with limited vehicle access also have few Metro Bike Share stations nearby? 
 
