@@ -2,7 +2,7 @@
 
 Where in the City of Los Angeles do households with limited vehicle access also have few Metro Bike Share stations nearby? For our **COOP Careers Data Analytics Fellowship** team project, we combined station locations with Census data to identify **177 census tracts for further review** and show where new stations or better connections might improve proximity.
 
-[Tableau dashboard](https://public.tableau.com/views/MidcylceC700Project/Dashboard1) · [Python notebook](metro_stations_eda.ipynb) · [Full Report](la_Metro_Bike Share_Access_Exploratory_Data_Analysis_Report.pdf) · [Presentation](C700_Midcycle_Project_Presentation.pdf)
+[Tableau dashboard](https://public.tableau.com/views/MidcylceC700Project/Dashboard1) · [Python notebook](metro_stations_eda.ipynb) · [Full Report](report.pdf) · [Presentation](C700_Midcycle_Project_Presentation.pdf)
 
 ## Key findings
 
