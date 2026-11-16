@@ -16,6 +16,9 @@ Where in the City of Los Angeles do households with limited vehicle access also 
 | Baldwin Hills/Crenshaw | 2361.01 | 39.8% | 0% | 0% |
 | Westlake | 2091.05 | 50.6% | 3.7% | 100% |
 
+![Metro Bike Share Access Dashboard](images/tableau_dashboard.png)
+
+
 ## My contribution
 
 I built the Python notebook in Google Colab. I cleaned the station data, joined Census estimates to tract boundaries, calculated station coverage with GeoPandas and Shapely, and mapped potential gaps with Folium. I also co-authored the report and presented the findings with my COOP Careers C700 team. Stephanie Trujillo-Lemus built the Tableau dashboard.
